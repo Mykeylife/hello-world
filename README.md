@@ -1,6 +1,6 @@
 
-  ./
-  ├── .github/
-  ├── README.md
-  └── social_media_api.py
+  
+   github/
+   README.md
+   social_media_api.py
   
