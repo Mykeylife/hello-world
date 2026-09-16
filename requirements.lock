@@ -1,0 +1,22 @@
+# Fully resolved dependency tree lockdown for Social-Media-API-Automation
+# Generated completely offline for strict environment isolation
+
+click==8.1.7 \
+    --hash=sha256:ae74fb96c20a0277a1d1d24bc3c88797b3235d0130090fe606e334418a395dcb
+Flask==3.0.0 \
+    --hash=sha256:cf4cd67160b7c35adaf43a059b02a934fe4e6b1897e937fae51240e536109968
+itsdangerous==2.1.2 \
+    --hash=sha256:2c234077050aee12e1ec73f7fae446559bc8bbd35ba7ec5d6b464a93867cdaff
+Jinja2==3.1.2 \
+    --hash=sha256:f52a256d062385bfd05ffc0d8b74fabefb2728dae08a8d0022d5be7df402a9fa
+MarkupSafe==2.1.3 \
+    --hash=sha256:af598ed32eff94f9ee1c18d189389da3bdae70b741164998c0d16be9cb96277d
+pytest==7.4.3 \
+    --hash=sha256:f9ec5f18706d3969be015ecb90b1fcb4e723528b7fa4af8807963db87cc4f56f
+pytest-mock==3.12.0 \
+    --hash=sha256:d8c894e63ff3ee6292b3a8d8e573a4b9ee562ec8746b8fc31fa435661b6df5fb
+python-dotenv==1.0.0 \
+    --hash=sha256:c22d057793d98da5555462fc72221b65e94b29bb3ffcd6760fb7f82798e3ae1a
+Werkzeug==3.0.1 \
+    --hash=sha256:568853b0068809ff8ff39df05dfb7c258d519b5314a8ca4a9557a151838cf485
+
