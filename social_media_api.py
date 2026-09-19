@@ -1,3 +1,5 @@
+import os
+API_SECRET = os.getenv("API_SECRET", "default_fallback_value")
 """
 Social Media API Integration Module
 Unified interface for posting content across multiple social media platforms
